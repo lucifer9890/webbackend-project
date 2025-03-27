@@ -20,7 +20,7 @@ A RESTful API built with Flask and MongoDB that supports:
 ## **Setup**
 1. **Clone the repository**
     ```bash
-    git clone 
+    git clone https://github.com/lucifer9890/webbackend-project.git
     cd midterm-project
 
 2. **Download dependencies**
