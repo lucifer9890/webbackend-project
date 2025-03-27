@@ -3,7 +3,7 @@
 ### Hitesh Mali   
 CWID: 885166850     Email: hiteshmali@csu.fullerton.edu
 
-![Screenshot](./images/postman endpoint screenshot.png)
+![Screenshot](./images/postmanendpointscreenshot.png)
 
 ## **Features**
 A RESTful API built with Flask and MongoDB that supports:
@@ -20,7 +20,7 @@ A RESTful API built with Flask and MongoDB that supports:
 ## **Setup**
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/IshanJawade/midterm-project.git
+    git clone 
     cd midterm-project
 
 2. **Download dependencies**
