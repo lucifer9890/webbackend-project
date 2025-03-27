@@ -3,7 +3,7 @@
 ### Hitesh Mali   
 CWID: 885166850     Email: hiteshmali@csu.fullerton.edu
 
-![Screenshot](./images/postman endpoint screenshots.png)
+![Screenshot](./images/screenshot.png)
 
 ## **Features**
 A RESTful API built with Flask and MongoDB that supports:
