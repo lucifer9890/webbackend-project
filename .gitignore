@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Flask secret key and configs
+instance/
+config.py  # Exclude if it contains secrets (use environment variables instead)
+
+# MongoDB data files
+*.ns
+*.mongod
+/data/db/
+
+# Uploaded files (user-generated content)
+uploads/
+!uploads/.gitkeep  # Keep empty directory structure
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
