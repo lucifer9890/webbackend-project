@@ -21,7 +21,7 @@ A RESTful API built with Flask and MongoDB that supports:
 1. **Clone the repository**
     ```bash
     git clone https://github.com/lucifer9890/webbackend-project.git
-    cd midterm-project
+    cd webbackend-project
 
 2. **Download dependencies**
     ```bash
