@@ -1,15 +1,15 @@
-## Midterm Project - Flask application 
+## Web Backend Midterm Project - Flask API application 
 
-### Ishan Jawade    
-CWID: 885186304     Email: ishanjawade@csu.fullerton.edu
+### Hitesh Mali   
+CWID: 885166850     Email: hiteshmali@csu.fullerton.edu
 
-![Screenshot](./images/PostmanScreenshot.png)
+![Screenshot](./images/postman endpoint screenshot.png)
 
 ## **Features**
 A RESTful API built with Flask and MongoDB that supports:
 - User authentication (JWT)
-- File uploads (authenticated)
 - Public/private routes
+- File uploads (authentication)
 - CRUD operations for items
 
 ## **Prerequisites**
@@ -43,4 +43,3 @@ A RESTful API built with Flask and MongoDB that supports:
 | `/auth/items/<item_id>`      | DELETE | Yes           | Delete item by ID                  |
 | `/public/items`              | GET    | No            | List all items (public)            |
 
-Copyrights Ishan Jawade 2025
